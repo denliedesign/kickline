@@ -24,11 +24,11 @@
         <div>
             <div class="heading-1">Withdrawal and Schedule Changes</div>
             <p>
-                <strong>Summer 2022</strong>
+                <strong>Summer Programs</strong>
                 <br>Any cancellation prior to July 1st, is eligible for a full refund.
                 <br>All cancellations after July 1st will receive studio credit toward future services.
                 <br><br>
-                <strong>Fall 2022-23</strong>
+                <strong>Fall Programs</strong>
                 <br>All withdrawal and schedule changes must be made in writing.  Please email cindy@kicklinedancecenter.com or stop by our front desk.
                 <br>Notification must be given prior to the installment payment being run on the 5th of the month.  Once payment is run, refunds will not be issued.
                 <br>All registrations require a minimum payment of 1 month tuition.

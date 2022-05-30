@@ -62,11 +62,11 @@
         </div>
         <section id="classes">
             <div class="row">
-                <div class="col-sm">
-                    <video width="100%" height="auto" controls class="shadow rounded">
-                        <source src="/images/classes-1.mp4" type="video/mp4">
-                    </video>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <video width="100%" height="auto" controls class="shadow rounded">--}}
+{{--                        <source src="/images/classes-1.mp4" type="video/mp4">--}}
+{{--                    </video>--}}
+{{--                </div>--}}
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="heading-1">Pre-School/Elementary</div>
@@ -77,11 +77,11 @@
                 </div>
             </div>
             <div class="row my-3">
-                <div class="col-sm">
-                    <video width="100%" height="auto" controls class="shadow rounded">
-                        <source src="/images/classes-2.mp4" type="video/mp4">
-                    </video>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <video width="100%" height="auto" controls class="shadow rounded">--}}
+{{--                        <source src="/images/classes-2.mp4" type="video/mp4">--}}
+{{--                    </video>--}}
+{{--                </div>--}}
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="heading-1">Tap</div>
@@ -92,11 +92,11 @@
                 </div>
             </div>
             <div class="row my-3">
-                <div class="col-sm">
-                    <video width="100%" height="auto" controls class="shadow rounded">
-                        <source src="/images/classes-3.mp4" type="video/mp4">
-                    </video>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <video width="100%" height="auto" controls class="shadow rounded">--}}
+{{--                        <source src="/images/classes-3.mp4" type="video/mp4">--}}
+{{--                    </video>--}}
+{{--                </div>--}}
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="heading-1">Jazz</div>
@@ -107,11 +107,11 @@
                 </div>
             </div>
             <div class="row my-3">
-                <div class="col-sm">
-                    <video width="100%" height="auto" controls class="shadow rounded">
-                        <source src="/images/classes-4.mp4" type="video/mp4">
-                    </video>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <video width="100%" height="auto" controls class="shadow rounded">--}}
+{{--                        <source src="/images/classes-4.mp4" type="video/mp4">--}}
+{{--                    </video>--}}
+{{--                </div>--}}
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="heading-1">Ballet/Pointe</div>
@@ -122,11 +122,11 @@
                 </div>
             </div>
             <div class="row my-3">
-                <div class="col-sm">
-                    <video width="100%" height="auto" controls class="shadow rounded">
-                        <source src="/images/classes-5.mp4" type="video/mp4">
-                    </video>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <video width="100%" height="auto" controls class="shadow rounded">--}}
+{{--                        <source src="/images/classes-5.mp4" type="video/mp4">--}}
+{{--                    </video>--}}
+{{--                </div>--}}
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="heading-1">Musical Theater</div>
@@ -137,11 +137,11 @@
                 </div>
             </div>
             <div class="row my-3">
-                <div class="col-sm">
-                    <video width="100%" height="auto" controls class="shadow rounded">
-                        <source src="/images/classes-6.mp4" type="video/mp4">
-                    </video>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <video width="100%" height="auto" controls class="shadow rounded">--}}
+{{--                        <source src="/images/classes-6.mp4" type="video/mp4">--}}
+{{--                    </video>--}}
+{{--                </div>--}}
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="heading-1">Hip-Hop</div>
@@ -152,11 +152,11 @@
                 </div>
             </div>
             <div class="row my-3">
-                <div class="col-sm">
-                    <video width="100%" height="auto" controls class="shadow rounded">
-                        <source src="/images/classes-7.mp4" type="video/mp4">
-                    </video>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <video width="100%" height="auto" controls class="shadow rounded">--}}
+{{--                        <source src="/images/classes-7.mp4" type="video/mp4">--}}
+{{--                    </video>--}}
+{{--                </div>--}}
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="heading-1">Acro</div>
@@ -167,11 +167,11 @@
                 </div>
             </div>
             <div class="row my-3">
-                <div class="col-sm">
-                    <video width="100%" height="auto" controls class="shadow rounded">
-                        <source src="/images/classes-8.mp4" type="video/mp4">
-                    </video>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <video width="100%" height="auto" controls class="shadow rounded">--}}
+{{--                        <source src="/images/classes-8.mp4" type="video/mp4">--}}
+{{--                    </video>--}}
+{{--                </div>--}}
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="heading-1">Modern</div>
@@ -182,11 +182,11 @@
                 </div>
             </div>
             <div class="row my-3">
-                <div class="col-sm">
-                    <video width="100%" height="auto" controls class="shadow rounded">
-                        <source src="/images/classes-9.mp4" type="video/mp4">
-                    </video>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <video width="100%" height="auto" controls class="shadow rounded">--}}
+{{--                        <source src="/images/classes-9.mp4" type="video/mp4">--}}
+{{--                    </video>--}}
+{{--                </div>--}}
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="heading-1">Lyrical</div>
@@ -196,8 +196,6 @@
                     </div>
                 </div>
             </div>
-
-
         </section>
 
     </div>

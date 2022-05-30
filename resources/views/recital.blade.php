@@ -17,20 +17,20 @@
                 <img src="/images/recital-1.jpg" alt="dancers in costume" class="img-fluid">
             </div>
         </div>
-        <div class="row mt-5">
-            <div class="col-sm d-flex justify-content-center">
-                <div>
-                    <div class="heading-1 text-center">Low Sock Bun Hair Tutorial</div>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/HyaCUucZGm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>
-            <div class="col-sm d-flex justify-content-center">
-                <div>
-                    <div class="heading-1 text-center">High Sock Bun Hair Tutorial</div>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/jQ2kK0VPO-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row mt-5">--}}
+{{--            <div class="col-sm d-flex justify-content-center">--}}
+{{--                <div>--}}
+{{--                    <div class="heading-1 text-center">Low Sock Bun Hair Tutorial</div>--}}
+{{--                    <iframe width="560" height="315" src="https://www.youtube.com/embed/HyaCUucZGm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-sm d-flex justify-content-center">--}}
+{{--                <div>--}}
+{{--                    <div class="heading-1 text-center">High Sock Bun Hair Tutorial</div>--}}
+{{--                    <iframe width="560" height="315" src="https://www.youtube.com/embed/jQ2kK0VPO-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         <div class="mt-5 text-center">
             <div class="heading-1">Costumes</div>
             <p>
@@ -48,6 +48,9 @@
                 <br>Level 4-16- $70 per costume
                 <br>50% (less fundraising credits) will be charged to account on file on 1/15.
                 <br>50% (less fundraising credit) will be charged to account on file on 4/15.
+            </p>
+            <p>
+                We do not charge a recital fee or a performance fee.  Included in your family’s tuition are 2 Free June Recital Tickets, Free Costume Alterations, Free Digital Recording of the June Show, and end of the year award.
             </p>
         </div>
     </div>
