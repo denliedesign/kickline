@@ -22,12 +22,12 @@
             <strong>AUGUST 16</strong> 6-7PM
         </p>
         <div class="my-3 row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
-            <div class="my-3"><img src="/images/studio-1.jpg" alt="studio space" class="shadow rounded img-fluid"></div>
-            <div class="my-3"><img src="/images/studio-2.jpg" alt="studio space" class="shadow rounded img-fluid"></div>
-            <div class="my-3"><img src="/images/studio-3.jpg" alt="studio space" class="shadow rounded img-fluid"></div>
-            <div class="my-3"><img src="/images/studio-4.jpg" alt="studio space" class="shadow rounded img-fluid"></div>
-            <div class="my-3"><img src="/images/studio-5.jpg" alt="studio space" class="shadow rounded img-fluid"></div>
-            <div class="my-3"><img src="/images/studio-6.jpg" alt="studio space" class="shadow rounded img-fluid"></div>
+            <div class="my-3"><img src="/images/dance-depot.jpeg" alt="studio space" class="shadow rounded img-fluid" style="height: 266.78px; object-fit: cover; object-position: 50% 50%; width: 100%;"></div>
+            <div class="my-3"><img src="/images/studio-2.jpg" alt="studio space" class="shadow rounded img-fluid" style="height: 266.78px; object-fit: cover; object-position: 50% 0; width: 100%;"></div>
+            <div class="my-3"><img src="/images/studio-3.jpg" alt="studio space" class="shadow rounded img-fluid" style="height: 266.78px; object-fit: cover; object-position: 50% 0; width: 100%;"></div>
+            <div class="my-3"><img src="/images/studio-4.jpg" alt="studio space" class="shadow rounded img-fluid" style="height: 266.78px; object-fit: cover; object-position: 50% 0; width: 100%;"></div>
+            <div class="my-3"><img src="/images/studio-5.jpg" alt="studio space" class="shadow rounded img-fluid" style="height: 266.78px; object-fit: cover; object-position: 50% 0; width: 100%;"></div>
+            <div class="my-3"><img src="/images/studio-6.jpg" alt="studio space" class="shadow rounded img-fluid" style="height: 266.78px; object-fit: cover; object-position: 50% 0; width: 100%;"></div>
         </div>
     </div>
 

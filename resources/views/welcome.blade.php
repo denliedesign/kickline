@@ -3,9 +3,9 @@
 
     <div class="gradient-splash">
         <div id="primary-bg">
-            <div class="color-filter-black"></div>
-            <h2 id="primary-txt-mobile" class="d-md-none">dance lessons that teach life lessons</h2>
-            <h2 id="primary-txt" class="d-none d-md-block">dance lessons that teach life lessons</h2>
+{{--            <div class="color-filter-black"></div>--}}
+            <h2 id="primary-txt-mobile" class="d-md-none">More Than Just Great Dancing!</h2>
+            <h2 id="primary-txt" class="d-none d-md-block">More Than Just Great Dancing!</h2>
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-md-none btn-opacity"><div id="button-mobile" class="shadow btn btn-lg btn-kapa-blue primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-kapa-blue primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
         </div>
@@ -13,22 +13,22 @@
         {{--    @include('trial-modal')--}}
 
         <div class="container">
-            <div id="next-steps">
+            <div id="next-steps" style="font-size: 0.85em;">
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
                     <div class="next-step mt-3 mt-md-0 shadow">
-                        <p class="txt-red">Ready To Leap In?</p>
-                        <a href="https://app.thestudiodirector.com/kicklinedancecenter/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Enroll today!</div></a>
+                        <p class="txt-red">Register Online</p>
+                        <a href="https://app.thestudiodirector.com/kicklinedancecenter/portal.sd" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family" style="font-size: 0.85em;">Use Our Online Portal</div></a>
                     </div>
                     <div class="next-step mt-3 mt-md-0 shadow">
-                        <p class="txt-blue">Want To Give It A Try?</p>
-                        <a href="https://webforms.pipedrive.com/f/1FR1zjMCQ3R9Ok1y4OLDL0FKeJSyUNNOCIkAjk2gxlII9jWNxFIJZ3NFe3Y6sl0HN" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family">&#10097; Schedule A Trial!</div></a>
+                        <p class="txt-blue">Easily Pre-Register</p>
+                        <a href="https://forms.gle/rV5fQVnmuFuaWuQ49" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family" style="font-size: 0.85em;">We’ll Call To Complete The Process</div></a>
                         {{--                    <div>--}}
-                        {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
+                        {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family  style="font-size: 0.85em;" btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">Schedule A Trial!</button>--}}
                         {{--                    </div>--}}
                     </div>
                     <div class="next-step mt-3 mt-md-0 shadow">
-                        <p class="txt-grey">Still Have Questions?</p>
-                        <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family">&#10097; Contact Us!</div></a>
+                        <p class="txt-grey">Visit & Register In Person</p>
+                        <a href="/visit-us" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family" style="font-size: 0.85em;">Take A Tour & See Our Facility</div></a>
                     </div>
                 </div>
             </div>
@@ -86,27 +86,29 @@
 
     <div id="checklist-bg">
         <div class="color-filter-black"></div>
-        <h2 class="secondary-txt d-none d-md-block">Parents <ion-icon name="heart"></ion-icon> <span class="txt-red">KDC</span>...</h2>
+        <h2 class="secondary-txt d-none d-md-block">We <ion-icon name="heart"></ion-icon> <span class="txt-red">KDC</span>...</h2>
         <div class="row secondary-txt-pos text-white text-center">
             <div class="col-sm">
                 <p class="my-0 text-capitalize">
-                    <ion-icon name="heart"></ion-icon> Safer Studio
-                    <br><ion-icon name="heart"></ion-icon> Tech Enabled
-                    <br><ion-icon name="heart"></ion-icon> Secured Facility
+                    <ion-icon name="heart"></ion-icon> Family First
+                    <br><ion-icon name="heart"></ion-icon> Positive Role Models
+                    <br><ion-icon name="heart"></ion-icon> Age appropriate Choreography & Costumes
                 </p>
             </div>
             <div class="col-sm">
                 <p class="my-0">
-                    <ion-icon name="heart"></ion-icon> Written Curriculum
-                    <br><ion-icon name="heart"></ion-icon> Full-Time Admin
-                    <br><ion-icon name="heart"></ion-icon> YPAD Certified
+                    <ion-icon name="heart"></ion-icon> Excellence
+                    <br><ion-icon name="heart"></ion-icon> Building Self Confidence
+                    <br><ion-icon name="heart"></ion-icon> Encourage Creativity
+                    <br><ion-icon name="heart"></ion-icon> YPAD Certified Safer Studio
                 </p>
             </div>
             <div class="col-sm">
                 <p class="my-0">
-                    <ion-icon name="heart"></ion-icon> Community Service
-                    <br><ion-icon name="heart"></ion-icon> Background Checked
-                    <br><ion-icon name="heart"></ion-icon> CPR Trained
+                    <ion-icon name="heart"></ion-icon> Exceed Expectations
+                    <br><ion-icon name="heart"></ion-icon> Dance Lessons Teach Life Lessons
+                    <br><ion-icon name="heart"></ion-icon> Giving Back to Our Community
+                    <br><ion-icon name="heart"></ion-icon> Background Checked Instructors
                 </p>
             </div>
         </div>
@@ -118,18 +120,16 @@
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="d-flex justify-content-center mb-0">
-                            <img src="/images/logo-acro.png" alt="program logo" class="img-fluid">
+                            <img src="/images/tutus-and-tap.jpeg" alt="dancer in tutu" class="img-fluid rounded shadow">
                         </div>
-                        <p class="mb-5">
-                            showcase one of your programs here.
-                            <br><br>
-                            examples: the nutcracker, darbys dancers, acrobatic arts, junior faculty program, etc.
+                        <p class="my-4 text-center" style="font-size: 1.33em;">
+                            Spin Your Child’s Imagination Into Dance with our special Tutu’s and Tap combo classes for Ages 3-6
                         </p>
                     </div>
                 </div>
                 <div class="col-sm d-flex align-items-center justify-content-center">
                     <div class="">
-                        <img src="/images/acrobatic-arts.jpg" alt="program photo" class="img-fluid rounded shadow">
+                        <img src="/images/logo-tutus-and-tap.png" alt="tutu and tap logo" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -138,7 +138,7 @@
 
     <div id="mtjgd-bg" class="text-white">
         <div class="color-filter-black"></div>
-        <h2 class="secondary-txt">We're About More Than Just Great Dancing™</h2>
+        <h2 class="secondary-txt">Dance Lessons Teach Life Lessons</h2>
         <div>
             <div class="row tertiary-txt-pos">
                 <div class="col-sm my-4">
@@ -162,7 +162,7 @@
                     </div>
                     <h2 class="text-center">KDC is a Safer Studio™</h2>
                     <p>
-                        KDC focuses on a hierarchy of measures to create a Safer Studio™ environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleaning and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.
+                        KDC focuses on a hierarchy of measures to create a Safer Studio™ environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleaning and good hygiene practices, amplified cleaning.
                     </p>
                 </div>
                 <div class="col-sm">
@@ -171,13 +171,13 @@
                     </div>
                     <h2 class="text-center">KDC is Youth Protection Advocates in Dance®  Certified!</h2>
                     <p>
-                        <span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Background checked and CPR certified teachers
+                        <span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Background checked teachers
                         <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Safer Studio™ Policy
                         <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Teacher training & proven curriculum
                         <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> A focus on safety & wellness for every student
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Secured facilities
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Viewing windows
-                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Social media safety practices
+{{--                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Secured facilities--}}
+{{--                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Viewing windows--}}
+{{--                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Social media safety practices--}}
                     </p>
                 </div>
             </div>

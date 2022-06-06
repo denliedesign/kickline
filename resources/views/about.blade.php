@@ -71,12 +71,12 @@
                 <br>We Teach Dance to Make Great Kids”</p>
         </blockquote>
         <div class="row row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
-            <div class="my-2"><img src="/images/about-1.jpg" alt="group of dancers" class="img-fluid shadow rounded"></div>
-            <div class="my-2"><img src="/images/about-2.jpg" alt="group of dancers" class="img-fluid shadow rounded"></div>
-            <div class="my-2"><img src="/images/about-3.jpg" alt="group of dancers" class="img-fluid shadow rounded"></div>
-            <div class="my-2"><img src="/images/about-4.jpg" alt="group of dancers" class="img-fluid shadow rounded"></div>
-            <div class="my-2"><img src="/images/about-5.jpg" alt="group of dancers" class="img-fluid shadow rounded"></div>
-            <div class="my-2"><img src="/images/about-6.jpg" alt="group of dancers" class="img-fluid shadow rounded"></div>
+            <div class="my-2"><img src="/images/about-1.jpg" alt="group of dancers" class="img-fluid shadow rounded" style="height: 312px; object-fit: cover; object-position: 50% 50%; width: 100%;"></div>
+            <div class="my-2"><img src="/images/about-2.jpg" alt="group of dancers" class="img-fluid shadow rounded" style="height: 312px; object-fit: cover; object-position: 50% 50%; width: 100%;"></div>
+            <div class="my-2"><img src="/images/about-3.jpg" alt="group of dancers" class="img-fluid shadow rounded" style="height: 312px; object-fit: cover; object-position: 50% 50%; width: 100%;"></div>
+            <div class="my-2"><img src="/images/about-4.jpg" alt="group of dancers" class="img-fluid shadow rounded" style="height: 312px; object-fit: cover; object-position: 50% 50%; width: 100%;"></div>
+            <div class="my-2"><img src="/images/about-5.jpg" alt="group of dancers" class="img-fluid shadow rounded" style="height: 312px; object-fit: cover; object-position: 50% 60%; width: 100%;"></div>
+            <div class="my-2"><img src="/images/about-6.jpg" alt="group of dancers" class="img-fluid shadow rounded" style="height: 312px; object-fit: cover; object-position: 50% 50%; width: 100%;"></div>
         </div>
         <h1 class="text-center mt-5">Our Director</h1>
         <div class="row" style="font-size: 1.33em;">

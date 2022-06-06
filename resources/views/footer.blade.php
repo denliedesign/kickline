@@ -1,17 +1,20 @@
 <div class="bg-white">
     <div class="container">
-        <div id="next-steps-copy" class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center bg-white pt-5 pb-3">
+        <div id="next-steps-copy" class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center bg-white pt-5 pb-3" style="font-size: 0.85em;">
             <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-red">Ready To Leap In?</p>
-                <a href="https://app.thestudiodirector.com/kicklinedancecenter/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">&#10097; Enroll today!</div></a>
+                <p class="txt-red">Register Online</p>
+                <a href="https://app.thestudiodirector.com/kicklinedancecenter/portal.sd" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family" style="font-size: 0.85em;">Use Our Online Portal</div></a>
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-blue">Want To Give It A Try?</p>
-                <a href="https://webforms.pipedrive.com/f/1FR1zjMCQ3R9Ok1y4OLDL0FKeJSyUNNOCIkAjk2gxlII9jWNxFIJZ3NFe3Y6sl0HN" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family">&#10097; Schedule A Trial!</div></a>
+                <p class="txt-blue">Easily Pre-Register</p>
+                <a href="https://forms.gle/rV5fQVnmuFuaWuQ49" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family" style="font-size: 0.85em;">We’ll Call To Complete The Process</div></a>
+                {{--                    <div>--}}
+                {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family  style="font-size: 0.85em;" btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">Schedule A Trial!</button>--}}
+                {{--                    </div>--}}
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-grey">Still Have Questions?</p>
-                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family">&#10097; Contact Us!</div></a>
+                <p class="txt-grey">Visit & Register In Person</p>
+                <a href="/visit-us" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family" style="font-size: 0.85em;">Take A Tour & See Our Facility</div></a>
             </div>
         </div>
     </div>
@@ -24,11 +27,11 @@
                     <p class="lead">CONTACT</p>
                     <ul class="list-group">
                         <li class="list-group-item px-0 border-0">
-                            <ion-icon name="navigate"></ion-icon>
+                            <strong>physical address:</strong><br>
                             531 Georgetown Rd, Lawrence, PA 15055
                         </li>
                         <li class="list-group-item px-0 border-0">
-                            <ion-icon name="gift"></ion-icon>
+                            <strong>mailing address:</strong><br>
                             118 Scenic Ridge Dr, Venetia, PA 15367
                         </li>
                         <li class="list-group-item px-0 border-0">

@@ -26,4 +26,14 @@
     <li class="nav-item mx-2">
         <a class="nav-link" href="/attendance-and-schedule-changes">Attendance</a>
     </li>
+    <li class="nav-item mx-2 dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Other
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="/images/dancewear.pdf" target="_blank">Dancewear</a></li>
+            <li><a class="dropdown-item" href="https://www.dropbox.com/sh/7lbowhfqmf2vz9h/AAC2a1qZpfNJLGMDTmQU9Dx4a?dl=0" target="_blank">Recital Music</a></li>
+            <li><a class="dropdown-item" href="https://youtu.be/HyaCUucZGm8" target="_blank">Bun Tutorial</a></li>
+        </ul>
+    </li>
 </ul>

@@ -7,15 +7,15 @@
 
     <div class="container">
         <h1 class="text-center">Classes</h1>
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center mb-4">
             <div class="text-center">
-                <a target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">2022-2023 Fall Schedule</div></a>
-                <p><small class="text-muted text-center">coming soon</small></p>
+                <a href="/images/schedule-22-23.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">2022-2023 Fall Schedule</div></a>
+{{--                <p><small class="text-muted text-center">coming soon</small></p>--}}
             </div>
         </div>
         <div class="row">
             <div class="col-sm-5">
-                <img src="/images/classes-1.jpg" alt="dancer in costume" class="img-fluid shadow rounded">
+                <img src="/images/classes-page-1.jpeg" alt="dancer in costume" class="img-fluid shadow rounded">
             </div>
             <div class="col-sm-7 d-flex align-items-center" style="font-size: 1.33em;">
                 <div>
@@ -57,7 +57,7 @@
                 </div>
             </div>
             <div class="col-sm-5">
-                <img src="/images/classes-2.jpg" alt="dancer in costume" class="img-fluid shadow rounded">
+                <img src="/images/classes-page-2.jpeg" alt="dancer in costume" class="img-fluid shadow rounded">
             </div>
         </div>
         <section id="classes">

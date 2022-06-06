@@ -7,7 +7,12 @@
 
     <div class="container">
         <h1 class="text-center">Pricing</h1>
-        <p class="text-center">Call for additional pricing beyond 5 hours per family</p>
+        <p class="text-center">
+            Tuition rates are for the full season including studio holidays, not by the number of classes in the year or month.
+            <br>Tuition fees are paid monthly and your annual amount will be divided into <strong><u>10 installments</u></strong>. (September- June)
+            <br>Tuition must be paid by automatic bank account debit or automatic credit card payment. Tuition will be charged to your debit/credit card account on file on the 5th day of each month (September- June.)
+            <br>Registration- $35 per student or $50 for 2 or more students in a family due at time of registration.
+        </p>
 
         <table class="table">
             <thead>
@@ -36,7 +41,7 @@
             <tr><td>5hrs</td><td>$260</td></tr>
             </tbody>
         </table>
-
+<p class="text-center">Call for additional pricing beyond 5 hours per family</p>
     </div>
 
 

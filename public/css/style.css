@@ -21,7 +21,7 @@ body {
 #primary-bg {
     height: 80vh;
     width: 100%;
-    background: url("/images/rockstar-hero.jpg");
+    background: url("/images/bg-primary.jpeg");
     background-size: cover;
     background-position: center;
     /*background-attachment: fixed;*/
@@ -62,13 +62,14 @@ body {
 #primary-txt {
     position: absolute;
     top: 20%;
-    left: 5%;
-    width: 40%;
+    left: 2%;
+    width: 33%;
     /*transform: translate(-50%, -50%);*/
     font-size: 4em;
     text-align: center;
-    color: white;
-    text-transform: lowercase;
+    color: black;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 2px white;
 }
 
 #primary-txt-mobile {
@@ -196,11 +197,11 @@ body {
 }
 
 #mtjgd-bg {
-    height: 100vh;
+    height: 90vh;
     width: 100%;
-    background: url("/images/mtjgd-bg.jpg");
+    background: url("/images/dance-lessons-teach-life-lessons.jpeg");
     background-size: cover;
-    background-position: center;
+    background-position: 0 33%;
     /*background-attachment: fixed;*/
     position: relative;
 }
@@ -353,6 +354,7 @@ body {
     }
 }
 
+.bg-red { background: rgba(204, 35, 43, 1); color: white;}
 .btn-red { background: rgba(204, 35, 43, 1); color: white;}
 .btn-red:hover { background: rgba(204, 35, 43, 0.7); color: white;}
 .btn-red-outline { border: 2px solid rgba(204, 35, 43, 1); background: transparent; transition: 0.8s all ease;}

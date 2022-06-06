@@ -31,12 +31,30 @@
 {{--                </div>--}}
 {{--            </div>--}}
 {{--        </div>--}}
+        <div class="row">
+            <div class="col-sm"></div>
+            <div class="col-sm">
+                <div class="bg-red p-3 rounded shadow mt-5 bigger-font">
+                    <p>
+                        <strong>We do not charge a recital fee or a performance fee.</strong>
+                    </p>
+                    Included in your family’s tuition are
+                    <ul class="text-capitalize">
+                        <li>2 Free June Recital Tickets</li>
+                        <li>Free Costume Alterations</li>
+                        <li>Free Digital Recording of the June Show</li>
+                        <li>end of the year award</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm"></div>
+        </div>
         <div class="mt-5 text-center">
             <div class="heading-1">Costumes</div>
             <p>
                 Students are responsible for purchasing costumes for their shows.
                 <br><br>
-                Costume Fees* New for 2021-22
+                Costume Fees* New for 2022-23
                 <br><br>
                 <strong>Holiday Recital</strong> <small>(selective classes participate in this show)</small>
                 <br>Prices vary and tend to be less than June Recital costumes.
@@ -44,13 +62,10 @@
                 <br><br>
                 <strong>June Recital</strong> <small>(all classes participate)</small>
                 <br>Costume prices:
-                <br>Level 1-3- $65 includes tights
-                <br>Level 4-16- $70 per costume
+                <br>Level 1-3- $68 includes tights
+                <br>Level 4-16- $72 per costume
                 <br>50% (less fundraising credits) will be charged to account on file on 1/15.
                 <br>50% (less fundraising credit) will be charged to account on file on 4/15.
-            </p>
-            <p>
-                We do not charge a recital fee or a performance fee.  Included in your family’s tuition are 2 Free June Recital Tickets, Free Costume Alterations, Free Digital Recording of the June Show, and end of the year award.
             </p>
         </div>
     </div>

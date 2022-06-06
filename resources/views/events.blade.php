@@ -13,12 +13,8 @@
                 <table class="table">
                     <tbody>
                     <tr>
-                        <th>June 5</th>
-                        <td>Last Day of Classes</td>
-                    </tr>
-                    <tr>
-                        <th>June 7-11</th>
-                        <td>Tentative Dress Rehearsal & Recitals</td>
+                        <th>September 6, 2022</th>
+                        <td>First Day Of Fall Classes</td>
                     </tr>
                     </tbody>
                 </table>
