@@ -116,20 +116,24 @@
 
     <div class="bg-white py-5">
         <div class="container">
-            <div class="row">
-                <div class="col-sm d-flex align-items-center">
-                    <div>
-                        <div class="d-flex justify-content-center mb-0">
-                            <img src="/images/tutus-and-tap.jpeg" alt="dancer in tutu" class="img-fluid rounded shadow">
-                        </div>
-                        <p class="my-4 text-center" style="font-size: 1.33em;">
-                            Spin Your Child’s Imagination Into Dance with our special Tutu’s and Tap combo classes for Ages 3-6
-                        </p>
-                    </div>
-                </div>
+            <div class="row my-5">
                 <div class="col-sm d-flex align-items-center justify-content-center">
                     <div class="">
-                        <img src="/images/logo-tutus-and-tap.png" alt="tutu and tap logo" class="img-fluid">
+{{--                        <img src="/images/logo-tutus-and-tap.png" alt="tutu and tap logo" class="img-fluid">--}}
+                        <img src="/images/tutus-and-tap.jpeg" alt="dancer in tutu" class="img-fluid rounded shadow">
+                    </div>
+                </div>
+                <div class="col-sm d-flex align-items-center">
+                    <div>
+{{--                        <div class="d-flex justify-content-center mb-0">--}}
+{{--                            <img src="/images/tutus-and-tap.jpeg" alt="dancer in tutu" class="img-fluid rounded shadow">--}}
+{{--                        </div>--}}
+                        <p class="lead text-center"><span class="px-3 py-2" style="border: 1px solid #363839;">Featured Program</span></p>
+                        <h1 class="text-center txt-red">Tutus & Tap <span style="color: #363839; font-size: 0.5em;"><em>ages 3-6</em></span></h1>
+                        <p class="mb-4 text-center" style="font-size: 1.33em;">
+                            Imagine your child making friends, learning new skills and twirling to music!  Learning to dance is so much fun!  Parents will be so proud as their child develops creativity, imagination, self-confidence, and teamwork! Dancers can’t wait to showcase their skills in our amazing and professional recitals! Dancing at Kickline is fun and enjoyable for each child!
+                            {{--                            Spin Your Child’s Imagination Into Dance with our special Tutu’s and Tap combo classes for Ages 3-6--}}
+                        </p>
                     </div>
                 </div>
             </div>
