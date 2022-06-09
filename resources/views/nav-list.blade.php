@@ -32,7 +32,7 @@
         </a>
         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="/images/dancewear.pdf" target="_blank">Dancewear</a></li>
-            <li><a class="dropdown-item" href="https://www.dropbox.com/sh/7lbowhfqmf2vz9h/AAC2a1qZpfNJLGMDTmQU9Dx4a?dl=0" target="_blank">Recital Music</a></li>
+            <li><a class="dropdown-item" href="/recital-music">Recital Music</a></li>
             <li><a class="dropdown-item" href="https://youtu.be/HyaCUucZGm8" target="_blank">Bun Tutorial</a></li>
         </ul>
     </li>

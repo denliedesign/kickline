@@ -357,10 +357,10 @@ body {
 .bg-red { background: rgba(204, 35, 43, 1); color: white;}
 .btn-red { background: rgba(204, 35, 43, 1); color: white;}
 .btn-red:hover { background: rgba(204, 35, 43, 0.7); color: white;}
-.btn-red-outline { border: 2px solid rgba(204, 35, 43, 1); background: transparent; transition: 0.8s all ease;}
+.btn-red-outline { border: 2px solid rgba(204, 35, 43, 1); color:black; background: transparent; transition: 0.8s all ease;}
 .btn-blue { background: rgba(35, 204, 196, 1); color: white;}
 .btn-blue:hover { background: rgba(35, 204, 196, 0.7); color: white;}
-.btn-blue-outline { border: 2px solid rgba(35, 204, 196, 1); background: transparent; transition: 0.8s all ease;}
+.btn-blue-outline { border: 2px solid rgba(35, 204, 196, 1); color:black; background: transparent; transition: 0.8s all ease;}
 .btn-grey { background: rgba(54, 56, 57, 1); color: white;}
 .btn-grey:hover { background: rgba(54, 56, 57, 0.7); color: white;}
 .btn-grey-outline { border: 2px solid rgba(54, 56, 57, 1); background: transparent; transition: 0.8s all ease;}

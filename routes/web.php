@@ -41,6 +41,14 @@ Route::get('/events', function () {
     return view('/events');
 });
 
+Route::get('recital-music', function () {
+    return view('recital-music');
+});
+
+Route::post('recital-music', function () {
+    return view('recital-music');
+});
+
 
 Route::middleware([
     'auth:sanctum',
