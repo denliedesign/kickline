@@ -34,9 +34,9 @@ Route::get('/recital', function () {
 Route::get('/attendance-and-schedule-changes', function () {
     return view('/attendance-and-schedule-changes');
 });
-Route::get('/summer', function () {
-    return view('/summer');
-});
+//Route::get('/summer', function () {
+//    return view('/summer');
+//});
 Route::get('/events', function () {
     return view('/events');
 });
