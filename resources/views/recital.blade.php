@@ -54,19 +54,35 @@
             <p>
                 Students are responsible for purchasing costumes for their shows.
                 <br><br>
-                Costume Fees* New for 2022-23
+                Costume Fees for 2023-24
                 <br><br>
-                <strong>Holiday Recital</strong> <small>(selective classes participate in this show)</small>
-                <br>Prices vary and tend to be less than June Recital costumes.
+                <strong>Holiday Recital</strong>- (selective classes participate in this show)- Prices vary.
                 <br>Costumes automatically charged to account on file on 11/15.
                 <br><br>
-                <strong>June Recital</strong> <small>(all classes participate)</small>
+                <strong>June Recital</strong>- (all classes participate)-
                 <br>Costume prices:
-                <br>Level 1-3- $68 includes tights
-                <br>Level 4-16- $72 per costume
+                <br>Level 1-3.5- $75 includes tights
+                <br>Level 4-8- $80 per costume
+                <br>Level 9-16- $85 per costume
                 <br>50% (less fundraising credits) will be charged to account on file on 1/15.
                 <br>50% (less fundraising credit) will be charged to account on file on 4/15.
             </p>
+{{--            <p>--}}
+{{--                Students are responsible for purchasing costumes for their shows.--}}
+{{--                <br><br>--}}
+{{--                Costume Fees* New for 2022-23--}}
+{{--                <br><br>--}}
+{{--                <strong>Holiday Recital</strong> <small>(selective classes participate in this show)</small>--}}
+{{--                <br>Prices vary and tend to be less than June Recital costumes.--}}
+{{--                <br>Costumes automatically charged to account on file on 11/15.--}}
+{{--                <br><br>--}}
+{{--                <strong>June Recital</strong> <small>(all classes participate)</small>--}}
+{{--                <br>Costume prices:--}}
+{{--                <br>Level 1-3- $68 includes tights--}}
+{{--                <br>Level 4-16- $72 per costume--}}
+{{--                <br>50% (less fundraising credits) will be charged to account on file on 1/15.--}}
+{{--                <br>50% (less fundraising credit) will be charged to account on file on 4/15.--}}
+{{--            </p>--}}
         </div>
     </div>
 
