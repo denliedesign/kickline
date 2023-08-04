@@ -6,22 +6,22 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center">Calendar of Events</h1>
+        <h1 class="text-center">2023-2024 Calendar of Events</h1>
         <div class="row">
             <div class="col-sm-3"></div>
             <div class="col-sm-6">
                 <table class="table">
                     <tbody>
                     <tr>
-                        <th>Sept. 6</th>
+                        <th>Sept. 5</th>
                         <td>First Day Of Fall Classes</td>
                     </tr>
                     <tr>
-                        <th>Oct. 10-15</th>
+                        <th>Oct. 17-21</th>
                         <td>Viewing Week Level 1-3 only</td>
                     </tr>
                     <tr>
-                        <th>Oct. 24-29</th>
+                        <th>Oct. 24-30</th>
                         <td>Halloween Spirit Week</td>
                     </tr>
                     <tr>
@@ -29,27 +29,27 @@
                         <td>Halloween Break</td>
                     </tr>
                     <tr>
-                        <th>Nov. 14-22</th>
+                        <th>Nov. 13-21</th>
                         <td>Food Drive/Get Out of Dress Code Week</td>
                     </tr>
                     <tr>
-                        <th>Nov. 23-27</th>
+                        <th>Nov. 22-26</th>
                         <td>Thanksgiving Break, No Classes</td>
                     </tr>
                     <tr>
-                        <th>Dec. 10</th>
+                        <th>Dec. 9</th>
                         <td>Holiday Show</td>
                     </tr>
                     <tr>
-                        <th>Dec. 12-17</th>
+                        <th>Dec. 11-16</th>
                         <td>PJ’s & Hot Cocoa Week</td>
                     </tr>
                     <tr>
-                        <th>Dec. 19-Jan. 1</th>
+                        <th>Dec. 18-Jan. 1</th>
                         <td>Winter Break, No Classes</td>
                     </tr>
                     <tr>
-                        <th>Jan. 9-13</th>
+                        <th>Jan. 8-13</th>
                         <td>Parent Participation Week</td>
                     </tr>
                     <tr>
@@ -57,35 +57,35 @@
                         <td>March Madness Raffles</td>
                     </tr>
                     <tr>
-                        <th>Mar. 6-11</th>
+                        <th>Feb. 20-24</th>
                         <td>Viewing Week Level 1-3 only</td>
                     </tr>
                     <tr>
-                        <th>April 3-9</th>
+                        <th>Mar. 27-Apr. 2</th>
                         <td>Spring Break, No Classes</td>
                     </tr>
                     <tr>
-                        <th>May 8-13</th>
+                        <th>May 7-11</th>
                         <td>Bring A Friend Week Level 1-3 only</td>
                     </tr>
                     <tr>
-                        <th>May 26-29</th>
+                        <th>May 24-27</th>
                         <td>Memorial Day Break, No Classes</td>
                     </tr>
                     <tr>
-                        <th>June 4</th>
+                        <th>June 2</th>
                         <td>Student Appreciation Day</td>
                     </tr>
                     <tr>
-                        <th>June 11</th>
+                        <th>June 9</th>
                         <td>Last Day of Classes</td>
                     </tr>
                     <tr>
-                        <th>June 14-16</th>
+                        <th>June 12-14</th>
                         <td>Dress Rehearsals</td>
                     </tr>
                     <tr>
-                        <th>June 17</th>
+                        <th>June 15</th>
                         <td>Recitals</td>
                     </tr>
                     </tbody>
