@@ -38,6 +38,8 @@
         </div>
     @endif
 
+    <chat-widget style="--chat-widget-primary-color: #da1d25; --chat-widget-active-color:#da1d25 ;--chat-widget-bubble-color: #da1d25" location-id="H87QJtm4AAXgMzT9bUaO" heading="Have a question about our programs?" sub-heading="Enter your question below and a representative will contact you." prompt-msg="Hi there, have a question about our dance programs? ⭐️👯‍♂️🩰Text us here." success-msg="Someone from our studio will contact you soon! 😀" prompt-avatar="https://firebasestorage.googleapis.com/v0/b/highlevel-backend.appspot.com/o/locationPhotos%2FH87QJtm4AAXgMzT9bUaO%2Fchat-widget-person?alt=media&token=9e21e0bd-e4b9-414d-96c7-2894b2543c69" agency-name="StudioHub" agency-website="getmorestudents.net" ></chat-widget> <script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" > </script>
+
     @include('top')
     @include('header')
     @yield('content')

@@ -47,6 +47,55 @@
     <div class="my-4">
         <div class="container">
             <div class="row">
+                <div class="col-sm">
+                    <iframe
+                        src="https://link.dncestudio.com/widget/form/ohbeXNEnVVAzEFUbltJH"
+                        style="width:100%;height:100%;border:none;border-radius:0px"
+                        id="inline-ohbeXNEnVVAzEFUbltJH"
+                        data-layout="{'id':'INLINE'}"
+                        data-trigger-type="alwaysShow"
+                        data-trigger-value=""
+                        data-activation-type="alwaysActivated"
+                        data-activation-value=""
+                        data-deactivation-type="neverDeactivate"
+                        data-deactivation-value=""
+                        data-form-name="General"
+                        data-height="456"
+                        data-layout-iframe-id="inline-ohbeXNEnVVAzEFUbltJH"
+                        data-form-id="ohbeXNEnVVAzEFUbltJH"
+                        title="General"
+                    >
+                    </iframe>
+                    <script src="https://link.dncestudio.com/js/form_embed.js"></script>
+                </div>
+                <div class="col-sm">
+                    <iframe
+                        src="https://link.dncestudio.com/widget/form/YhDNDt33dGPZSK6v6cmW"
+                        style="width:100%;height:100%;border:none;border-radius:4px"
+                        id="inline-YhDNDt33dGPZSK6v6cmW"
+                        data-layout="{'id':'INLINE'}"
+                        data-trigger-type="alwaysShow"
+                        data-trigger-value=""
+                        data-activation-type="alwaysActivated"
+                        data-activation-value=""
+                        data-deactivation-type="neverDeactivate"
+                        data-deactivation-value=""
+                        data-form-name="Price"
+                        data-height="446"
+                        data-layout-iframe-id="inline-YhDNDt33dGPZSK6v6cmW"
+                        data-form-id="YhDNDt33dGPZSK6v6cmW"
+                        title="Price"
+                    >
+                    </iframe>
+                    <script src="https://link.dncestudio.com/js/form_embed.js"></script>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="my-4">
+        <div class="container">
+            <div class="row">
                 <div class="col d-flex justify-content-center align-items-center">
                     <div>
                         <h2 class="text-center">Summer 2023</h2>
