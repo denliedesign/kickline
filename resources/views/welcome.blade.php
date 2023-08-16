@@ -95,25 +95,25 @@
 
     <div class="my-4">
         <div class="container">
-            <div class="row">
-                <div class="col d-flex justify-content-center align-items-center">
-                    <div>
-                        <h2 class="text-center">Summer 2023</h2>
-                        <p class="text-center">Summer Schedule is HERE!</p>
-                        <div class="d-flex justify-content-center">
-                            <a href="/summer" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mb-3" style="width: 100%;">Pick your classes!</div></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="container">
-                        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                            <img src="/images/2023-summer-1.png" alt="" class="img-thumbnail p-3">
-                            <img src="/images/2023-summer-2.png" alt="" class="img-thumbnail p-3">
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="row">--}}
+{{--                <div class="col d-flex justify-content-center align-items-center">--}}
+{{--                    <div>--}}
+{{--                        <h2 class="text-center">Summer 2023</h2>--}}
+{{--                        <p class="text-center">Summer Schedule is HERE!</p>--}}
+{{--                        <div class="d-flex justify-content-center">--}}
+{{--                            <a href="/summer" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mb-3" style="width: 100%;">Pick your classes!</div></a>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col">--}}
+{{--                    <div class="container">--}}
+{{--                        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
+{{--                            <img src="/images/2023-summer-1.png" alt="" class="img-thumbnail p-3">--}}
+{{--                            <img src="/images/2023-summer-2.png" alt="" class="img-thumbnail p-3">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
         </div>
     </div>
 
