@@ -13,10 +13,10 @@
         </div>
 
         <div class="d-flex justify-content-center my-3">
-            <img src="/images/2023-summer-1.png" alt="summer info" class="img-fluid">
+            <img src="/images/2024-summer-2.png" alt="summer info" class="img-fluid">
         </div>
         <div class="d-flex justify-content-center my-3">
-            <img src="/images/2023-summer-2.png" alt="summer info" class="img-fluid">
+            <img src="/images/2024-summer-3.png" alt="summer info" class="img-fluid">
         </div>
 
 
