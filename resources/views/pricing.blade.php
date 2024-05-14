@@ -45,4 +45,28 @@
     </div>
 
 
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Select all <td> elements within tables with the class 'table'
+            const cells = document.querySelectorAll('table.table td');
+
+            cells.forEach(td => {
+                // Check if the content starts with '$'
+                if (td.textContent.trim().startsWith('$')) {
+                    // Parse the current cost, assuming it follows the '$'
+                    let currentCost = parseFloat(td.textContent.trim().substring(1));
+                    if (!isNaN(currentCost)) {
+                        // Add 5 to the cost
+                        currentCost += 5;
+                        // Update the cell content with the new cost, formatted as a price
+                        // td.textContent = `$${currentCost.toFixed(2)}`;
+                        // Update the cell content with the new cost, without decimal places
+                        td.textContent = `$${Math.round(currentCost)}`;
+                    }
+                }
+            });
+        });
+
+    </script>
+
 @endsection

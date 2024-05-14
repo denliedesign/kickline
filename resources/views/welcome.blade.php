@@ -28,7 +28,8 @@
                     </div>
                     <div class="next-step mt-3 mt-md-0 shadow">
                         <p class="txt-grey">Visit & Register In Person</p>
-                        <a href="/visit-us" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family" style="font-size: 0.85em;">Take A Tour & See Our Facility</div></a>
+{{--                        <a href="/visit-us" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family" style="font-size: 0.85em;">Take A Tour & See Our Facility</div></a>--}}
+                        <a href="mailto:cindy@kicklinedancecenter.com" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family" style="font-size: 0.85em;">Take A Tour & See Our Facility Email Request</div></a>
                     </div>
                 </div>
             </div>
@@ -68,27 +69,27 @@
                     </iframe>
                     <script src="https://link.dncestudio.com/js/form_embed.js"></script>
                 </div>
-                <div class="col-sm">
-                    <iframe
-                        src="https://link.dncestudio.com/widget/form/YhDNDt33dGPZSK6v6cmW"
-                        style="width:100%;height:100%;border:none;border-radius:4px"
-                        id="inline-YhDNDt33dGPZSK6v6cmW"
-                        data-layout="{'id':'INLINE'}"
-                        data-trigger-type="alwaysShow"
-                        data-trigger-value=""
-                        data-activation-type="alwaysActivated"
-                        data-activation-value=""
-                        data-deactivation-type="neverDeactivate"
-                        data-deactivation-value=""
-                        data-form-name="Price"
-                        data-height="446"
-                        data-layout-iframe-id="inline-YhDNDt33dGPZSK6v6cmW"
-                        data-form-id="YhDNDt33dGPZSK6v6cmW"
-                        title="Price"
-                    >
-                    </iframe>
-                    <script src="https://link.dncestudio.com/js/form_embed.js"></script>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <iframe--}}
+{{--                        src="https://link.dncestudio.com/widget/form/YhDNDt33dGPZSK6v6cmW"--}}
+{{--                        style="width:100%;height:100%;border:none;border-radius:4px"--}}
+{{--                        id="inline-YhDNDt33dGPZSK6v6cmW"--}}
+{{--                        data-layout="{'id':'INLINE'}"--}}
+{{--                        data-trigger-type="alwaysShow"--}}
+{{--                        data-trigger-value=""--}}
+{{--                        data-activation-type="alwaysActivated"--}}
+{{--                        data-activation-value=""--}}
+{{--                        data-deactivation-type="neverDeactivate"--}}
+{{--                        data-deactivation-value=""--}}
+{{--                        data-form-name="Price"--}}
+{{--                        data-height="446"--}}
+{{--                        data-layout-iframe-id="inline-YhDNDt33dGPZSK6v6cmW"--}}
+{{--                        data-form-id="YhDNDt33dGPZSK6v6cmW"--}}
+{{--                        title="Price"--}}
+{{--                    >--}}
+{{--                    </iframe>--}}
+{{--                    <script src="https://link.dncestudio.com/js/form_embed.js"></script>--}}
+{{--                </div>--}}
             </div>
         </div>
     </div>

@@ -31,7 +31,7 @@
             Other
         </a>
         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="/images/dancewear.pdf" target="_blank">Dancewear</a></li>
+            <li><a class="dropdown-item" href="/images/24-dress-code.png" target="_blank">Dancewear</a></li>
             <li><a class="dropdown-item" href="/recital-music">Recital Music</a></li>
             <li><a class="dropdown-item" href="https://youtu.be/HyaCUucZGm8" target="_blank">Bun Tutorial</a></li>
         </ul>

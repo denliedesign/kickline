@@ -14,7 +14,9 @@
             </div>
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-grey">Visit & Register In Person</p>
-                <a href="/visit-us" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family" style="font-size: 0.85em;">Take A Tour & See Our Facility</div></a>
+{{--                <a href="/visit-us" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family" style="font-size: 0.85em;">Take A Tour & See Our Facility</div></a>--}}
+                <a href="mailto:cindy@kicklinedancecenter.com" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family" style="font-size: 0.85em;">Take A Tour & See Our Facility Email Request</div></a>
+
             </div>
         </div>
     </div>

@@ -54,7 +54,7 @@
             <p>
                 Students are responsible for purchasing costumes for their shows.
                 <br><br>
-                Costume Fees for 2023-24
+                Costume Fees for 2024-25
                 <br><br>
                 <strong>Holiday Recital</strong>- (selective classes participate in this show)- Prices vary.
                 <br>Costumes automatically charged to account on file on 11/15.
