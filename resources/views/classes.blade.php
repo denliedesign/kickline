@@ -9,7 +9,7 @@
         <h1 class="text-center">Classes</h1>
         <div class="d-flex justify-content-center mb-4">
             <div class="text-center">
-                <a href="/images/23-24-schedule.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">2023-2024 Fall Schedule</div></a>
+                <a href="/images/schedule-24-25.pdf" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family">2024-25 Fall Schedule</div></a>
 {{--                <p><small class="text-muted text-center">coming soon</small></p>--}}
             </div>
         </div>
