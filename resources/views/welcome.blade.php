@@ -131,35 +131,35 @@
             <h2 class="text-center pt-5">Dance Classes</h2>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-preschool.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/preschool-elementary.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Pre-School/Elementary</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-tap.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/tap.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family mt-2" style="width: 100%;">Tap</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-jazz.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/jazz.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family mt-2" style="width: 100%;">Jazz</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-ballet.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/ballet-pointe.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Ballet/Pointe</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-musical-theater.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/musical-theater.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family mt-2" style="width: 100%;">Musical Theater</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-hip-hop.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/hip-hop.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-grey btn-family mt-2" style="width: 100%;">Hip-Hop</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-acro.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/acro.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Acro</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-modern.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/modern-lyrical.gif" alt="dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family mt-2" style="width: 100%;">Modern/Lyrical</div></a>
                 </div>
             </div>
