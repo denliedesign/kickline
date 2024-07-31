@@ -94,13 +94,13 @@
         </div>
     </div>
 
-    <div class="mb-4">
-        <div class="container">
-            <a href="/summer">
-                <img src="/images/2024-summer-1.png" alt="summer graphic" class="img-fluid">
-            </a>
-        </div>
-    </div>
+{{--    <div class="mb-4">--}}
+{{--        <div class="container">--}}
+{{--            <a href="/summer">--}}
+{{--                <img src="/images/2024-summer-1.png" alt="summer graphic" class="img-fluid">--}}
+{{--            </a>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class="my-4">
         <div class="container">

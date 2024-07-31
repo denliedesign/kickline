@@ -6,18 +6,18 @@
     </div>
 
     <div class="container">
-        <h1 class="text-center">2023-2024 Calendar of Events</h1>
+        <h1 class="text-center">2024-2025 Calendar of Events</h1>
         <div class="row">
             <div class="col-sm-3"></div>
             <div class="col-sm-6">
                 <table class="table">
                     <tbody>
                     <tr>
-                        <th>Sept. 5</th>
-                        <td>First Day Of Fall Classes</td>
+                        <th>Sept. 3</th>
+                        <td>First Day of Classes</td>
                     </tr>
                     <tr>
-                        <th>Oct. 17-21</th>
+                        <th>Oct. 7-12</th>
                         <td>Viewing Week Level 1-3 only</td>
                     </tr>
                     <tr>
@@ -29,63 +29,63 @@
                         <td>Halloween Break</td>
                     </tr>
                     <tr>
-                        <th>Nov. 13-21</th>
+                        <th>Nov. 18-26</th>
                         <td>Food Drive/Get Out of Dress Code Week</td>
                     </tr>
                     <tr>
-                        <th>Nov. 22-26</th>
+                        <th>Nov. 27-Dec. 1</th>
                         <td>Thanksgiving Break, No Classes</td>
                     </tr>
                     <tr>
-                        <th>Dec. 9</th>
+                        <th>Dec. 14</th>
                         <td>Holiday Show</td>
                     </tr>
                     <tr>
-                        <th>Dec. 11-16</th>
+                        <th>Dec. 16-21</th>
                         <td>PJ’s & Hot Cocoa Week</td>
                     </tr>
                     <tr>
-                        <th>Dec. 18-Jan. 1</th>
+                        <th>Dec. 23-Jan. 5</th>
                         <td>Winter Break, No Classes</td>
                     </tr>
                     <tr>
-                        <th>Jan. 8-13</th>
+                        <th>Jan. 13-18</th>
                         <td>Parent Participation Week</td>
+                    </tr>
+                    <tr>
+                        <th>Mar. 3-8</th>
+                        <td>Viewing Week Level 1-3 only</td>
                     </tr>
                     <tr>
                         <th>Mar. 1-31</th>
                         <td>March Madness Raffles</td>
                     </tr>
                     <tr>
-                        <th>Feb. 20-24</th>
-                        <td>Viewing Week Level 1-3 only</td>
-                    </tr>
-                    <tr>
-                        <th>Mar. 27-Apr. 2</th>
+                        <th>Apr. 14-20</th>
                         <td>Spring Break, No Classes</td>
                     </tr>
                     <tr>
-                        <th>May 7-11</th>
+                        <th>May 5-10</th>
                         <td>Bring A Friend Week Level 1-3 only</td>
                     </tr>
                     <tr>
-                        <th>May 24-27</th>
+                        <th>May 23-26</th>
                         <td>Memorial Day Break, No Classes</td>
                     </tr>
                     <tr>
-                        <th>June 2</th>
+                        <th>June 1</th>
                         <td>Student Appreciation Day</td>
                     </tr>
                     <tr>
-                        <th>June 9</th>
+                        <th>June 8</th>
                         <td>Last Day of Classes</td>
                     </tr>
                     <tr>
-                        <th>June 12-14</th>
-                        <td>Dress Rehearsals</td>
+                        <th>June 11-13</th>
+                        <td>Staging Rehearsals</td>
                     </tr>
                     <tr>
-                        <th>June 15</th>
+                        <th>June 14</th>
                         <td>Recitals</td>
                     </tr>
                     </tbody>
