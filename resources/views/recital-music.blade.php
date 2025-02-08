@@ -16,7 +16,7 @@
                 </div>
             @endif
 
-            @if($code == 'music2024')
+            @if($code == 'music2025')
                 @include('connected')
             @else
                 <div style="height: 100%;" class="d-flex align-items-center justify-content-center text-center">
