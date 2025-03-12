@@ -46,6 +46,13 @@
     </div>
 
     <div class="mt-4">
+        <div class="d-flex justify-content-center"><img src="/images/summer-banner.png" class="img-fluid" alt="summer class announcement"></div>
+        <div class="d-flex justify-content-center">
+            <a href="/summer" class="btn-opacity"><div class="shadow btn btn-lg btn-red btn-family mt-2" style="width: 100%;">Register for Summer</div></a>
+        </div>
+    </div>
+
+    <div class="mt-4">
         <div class="container">
             <div class="row">
                 <div class="col-sm">

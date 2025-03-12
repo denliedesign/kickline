@@ -8,17 +8,20 @@
     <div class="container">
         <h1 class="text-center">Summer Camps</h1>
         <p class="text-center">Kickline summer camps will provide your child with fun filled days of dance, crafts, and surprises!  Our campers come away with memories they cherish for years to come. Join us this summer at one (or more!) of our magical and memorable sessions!</p>
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center my-3">
             <a href="https://app.thestudiodirector.com/kicklinedancecenter/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family">Register Now!</div></a>
         </div>
 
         <div class="d-flex justify-content-center my-3">
-            <img src="/images/2024-summer-2.png" alt="summer info" class="img-fluid">
+            <img src="/images/summer-2025-a.jpg" alt="summer info" class="img-fluid">
         </div>
         <div class="d-flex justify-content-center my-3">
-            <img src="/images/2024-summer-3.png" alt="summer info" class="img-fluid">
+            <img src="/images/summer-2025-b.jpg" alt="summer info" class="img-fluid">
         </div>
 
+        <div class="d-flex justify-content-center my-3">
+            <a href="https://app.thestudiodirector.com/kicklinedancecenter/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family">Register Now!</div></a>
+        </div>
 
 {{--        <div id="summer-camps">--}}
 {{--            <div class="row my-5 row-cols-2 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">--}}
