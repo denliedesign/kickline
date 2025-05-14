@@ -54,7 +54,13 @@
             <p>
                 Students are responsible for purchasing costumes for their shows.
                 <br><br>
-                Costume Fees for 2024-25
+                <strong>Costume Fees for 2025-26</strong>
+                <br><br>
+                <strong>* Due to the unforseen nature of ongoing tariffs we are unable to give an exact quote on costume prices for 2025-26 season.*</strong>
+                <br><br>
+                Below are the prices we used for the 2024-25 season for REFERENCE ONLY.   This can be used as a benchmark, and we will raise the prices as needed to cover tariffs.  Our goal is to be as close to these prices as possible while making sure we cover our costs and any additional tariffs.
+                <br>
+                <mark>Costume Fees from 2024-25 for REFERENCE ONLY.  PRICES  ARE NOT GUARANTEED.</mark>
                 <br><br>
                 <strong>Holiday Recital</strong>- (selective classes participate in this show)- Prices vary.
                 <br>Costumes automatically charged to account on file on 11/15.
